@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 80vw;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.chart-container {
+  width: 85vw;
+  height: 50vh;
+  margin: 20px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .chart-container {
+    width: 95vw;
+    height: 50vh;
+  }
+}
+
+.chart-wrapper {
+  padding: 20px;
+}
+
+.pagination-controls button {
+  font-size: 14px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid #13274F;
+  background-color: #fff;
+  color: #13274F;
+  cursor: pointer;
+}
+
+.pagination-controls button:hover {
+  background-color: #EAAA00;
+  color: white;
+}

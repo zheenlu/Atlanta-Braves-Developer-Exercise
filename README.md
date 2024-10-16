@@ -1,6 +1,6 @@
 # Baseball Data Visualization Project
 
-This is a web-based data visualization app providing insights into baseball data using three visualizations: **Exit Speed and Launch Angle by Batter**, **Play Outcome Distribution**, and **Hit Distance vs Launch Angle**. Users can toggle between light and dark themes and navigate through paginated charts.
+This is a web-based data visualization app providing insights into baseball data using three visualizations: **Exit Speed and Launch Angle by Batter**, **Play Outcome Distribution**, and **Hit Distance vs Launch Angle**.
 
 ## Features
 - **Interactive Visualizations**: Bar and pie charts showing relationships between various baseball data points.
